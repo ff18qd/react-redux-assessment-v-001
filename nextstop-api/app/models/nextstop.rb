@@ -1,0 +1,2 @@
+class Nextstop < ApplicationRecord
+end
